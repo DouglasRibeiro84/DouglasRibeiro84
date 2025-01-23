@@ -1,4 +1,4 @@
-## Olá 👋
+## Olá 
 
 
 ###### Sobre o Douglas
@@ -9,3 +9,7 @@ Tenho experiência na criação de sites e layouts interativos, utilizando tecno
 Sou apaixonado por criar experiências web dinâmicas, eficientes e com um alto foco em design de interfaces, usabilidade e performance. Utilizo Git e GitHub para versionamento e colaboração em projetos de equipe.
 
 Atualmente, minha principal atuação está no front-end, mas busco expandir meus conhecimentos para o back-end no futuro. Estou constantemente me atualizando e desafiando minhas habilidades para me tornar um profissional mais completo e entregar soluções cada vez melhores.
+
+### Detalhes
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DouglasRiberio84&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
