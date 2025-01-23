@@ -14,6 +14,6 @@ Atualmente, minha principal atuação está no front-end, mas busco expandir meu
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DouglasRibeiro84&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Projetos
+### Linguagens utilizadas
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DouglasRibeiro84&repo=exercicio.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasRibeiro84&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
